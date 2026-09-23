@@ -1,0 +1,141 @@
+text,category
+"Fui cobrado duas vezes no cartão e quero meu dinheiro de volta",pagamento
+"Comprei um plano errado sem querer, como faço pra estornar o valor?",pagamento
+"Não recebi o reembolso que foi prometido há 10 dias",pagamento
+"Minha fatura veio com um valor muito maior do que o combinado",pagamento
+"Paguei o boleto mas o sistema ainda mostra como pendente",pagamento
+"Quero saber por que fui cobrado de novo esse mês sem ter usado o serviço",pagamento
+"O cartão foi debitado mas não recebi confirmação da compra",pagamento
+"Solicitei o cancelamento do plano mas continuo sendo cobrado",pagamento
+"Gostaria de saber se dá pra parcelar essa cobrança",pagamento
+"A cobrança do PIX não caiu na minha conta ainda",pagamento
+"Fiz um upgrade de plano e fui cobrado o valor do plano antigo e do novo juntos",pagamento
+"Quero entender por que a cobrança recorrente aumentou sem aviso",pagamento
+"Meu cartão foi recusado mas o valor já saiu da fatura",pagamento
+"Preciso de nota fiscal da minha última compra",pagamento
+"O desconto da promoção não foi aplicado na cobrança",pagamento
+"Recebi cobrança de um plano que nunca contratei",pagamento
+"Como faço pra trocar a forma de pagamento cadastrada?",pagamento
+"O reembolso caiu na conta errada",pagamento
+"A cobrança está em dólar e eu esperava em real",pagamento
+"Preciso de um comprovante de pagamento para reembolso da empresa",pagamento
+"Quero cancelar minha assinatura imediatamente",cancelamento
+"Preciso cancelar o pedido antes que ele seja enviado",cancelamento
+"Como faço para cancelar meu plano mensal?",cancelamento
+"Quero encerrar minha conta e apagar meus dados",cancelamento
+"Se eu cancelar agora, perco o que já paguei esse mês?",cancelamento
+"Tentei cancelar pelo aplicativo mas não encontro a opção",cancelamento
+"Quero cancelar apenas um dos serviços contratados, não todos",cancelamento
+"Já pedi cancelamento três vezes e continuo sendo cobrado",cancelamento
+"Preciso cancelar a assinatura anual e quero saber sobre reembolso proporcional",cancelamento
+"Como cancelo a renovação automática?",cancelamento
+"Quero cancelar o pedido, ainda não foi despachado",cancelamento
+"Desisti da compra, como cancelo antes da entrega?",cancelamento
+"Cancelei o plano mas ainda aparece como ativo no meu perfil",cancelamento
+"Gostaria de pausar a assinatura em vez de cancelar de vez",cancelamento
+"Preciso cancelar porque vou me mudar de cidade",cancelamento
+"Como faço pra cancelar um pedido feito por engano?",cancelamento
+"Solicito o cancelamento do serviço a partir do próximo ciclo",cancelamento
+"Não quero mais renovar o contrato, como formalizo isso?",cancelamento
+"Cancelei e mesmo assim recebi um produto que eu não queria mais",cancelamento
+"Preciso de ajuda para cancelar um serviço que contratei sem querer",cancelamento
+"Meu pedido não chegou e já passou do prazo",entrega
+"O rastreio mostra que o pacote está parado há 5 dias",entrega
+"Recebi o produto errado na entrega de hoje",entrega
+"A entrega foi feita no endereço errado",entrega
+"Meu pacote chegou danificado",entrega
+"O prazo de entrega passou e ninguém me avisou o motivo",entrega
+"Recebi apenas parte do pedido, faltam itens",entrega
+"O status do pedido está como entregue mas eu não recebi nada",entrega
+"Preciso alterar o endereço de entrega antes do envio",entrega
+"O motoboy não conseguiu localizar o endereço e o pedido voltou",entrega
+"Quanto tempo demora a entrega para minha região?",entrega
+"O pacote foi extraviado durante o transporte",entrega
+"Recebi a caixa vazia, sem o produto dentro",entrega
+"Gostaria de saber se posso combinar um horário específico para a entrega",entrega
+"A embalagem chegou violada",entrega
+"O produto chegou muito antes do prazo, mas está incompleto",entrega
+"Preciso reagendar a entrega para outro dia",entrega
+"O transportador cobrou uma taxa extra não informada antes",entrega
+"Meu pedido está preso na alfândega há semanas",entrega
+"A entrega expressa que paguei não foi cumprida",entrega
+"Não consigo acessar minha conta, esqueci a senha",acesso
+"Meu login não funciona mesmo depois de resetar a senha",acesso
+"O código de verificação por SMS nunca chega",acesso
+"Minha conta foi bloqueada sem explicação",acesso
+"Não consigo trocar meu e-mail de cadastro",acesso
+"Esqueci o e-mail que usei para criar a conta",acesso
+"O aplicativo pede autenticação em duas etapas e eu não tenho mais o celular antigo",acesso
+"Não recebo o e-mail de recuperação de senha",acesso
+"Minha conta foi desativada depois de várias tentativas de login",acesso
+"Como faço para reativar minha conta suspensa?",acesso
+"O sistema não aceita minha senha mesmo estando correta",acesso
+"Preciso trocar o número de telefone vinculado à minha conta",acesso
+"Não consigo fazer login pelo aplicativo, só pelo site",acesso
+"Minha sessão cai toda hora e preciso logar de novo",acesso
+"Quero excluir minha conta permanentemente",acesso
+"O link de confirmação de cadastro expirou e não recebo outro",acesso
+"Não consigo vincular minha conta a outro dispositivo",acesso
+"Esqueci a resposta da pergunta de segurança",acesso
+"Minha conta aparece como já cadastrada, mas nunca me registrei",acesso
+"Preciso de ajuda para recuperar acesso a uma conta compartilhada",acesso
+"O aplicativo trava toda vez que eu tento abrir o carrinho",problema_tecnico
+"A página de pagamento fica carregando e nunca finaliza",problema_tecnico
+"O aplicativo fecha sozinho ao abrir a tela de pedidos",problema_tecnico
+"O site está muito lento hoje",problema_tecnico
+"Aparece uma tela branca ao tentar acessar meu perfil",problema_tecnico
+"O botão de finalizar compra não responde",problema_tecnico
+"Recebo uma mensagem de erro genérica ao tentar pagar",problema_tecnico
+"As imagens dos produtos não carregam no aplicativo",problema_tecnico
+"O aplicativo trava especificamente no meu celular Android",problema_tecnico
+"O chat de suporte não abre de jeito nenhum",problema_tecnico
+"Não consigo anexar arquivos no formulário de contato",problema_tecnico
+"O sistema apresenta erro 500 toda vez que tento finalizar o cadastro",problema_tecnico
+"A busca do site não retorna nenhum resultado",problema_tecnico
+"O carrinho zera sozinho quando eu volto pra tela anterior",problema_tecnico
+"O aplicativo não atualiza o status do pedido em tempo real",problema_tecnico
+"A tela de login trava ao girar o celular",problema_tecnico
+"O vídeo de instrução não carrega em nenhum navegador",problema_tecnico
+"Recebo notificações duplicadas o tempo todo",problema_tecnico
+"O aplicativo consome muita bateria e trava com frequência",problema_tecnico
+"O formulário perde os dados preenchidos ao dar erro",problema_tecnico
+"Recebi uma cobrança de um produto que nunca comprei",fraude
+"Alguém usou meu cartão sem autorização nesta plataforma",fraude
+"Detectei uma compra na minha conta que eu não fiz",fraude
+"Recebi um e-mail suspeito pedindo meus dados bancários em nome de vocês",fraude
+"Minha conta foi acessada por outra pessoa sem minha permissão",fraude
+"Apareceu uma transação estranha no meu extrato vinculada à plataforma",fraude
+"Alguém trocou meu endereço de entrega sem eu saber",fraude
+"Recebi uma ligação se passando pela empresa pedindo código de verificação",fraude
+"Minha senha foi alterada sem que eu tivesse feito isso",fraude
+"Encontrei pedidos no meu histórico que eu nunca fiz",fraude
+"Meu cartão foi usado em outro país enquanto eu estava aqui",fraude
+"Recebi um link falso de cobrança se passando pelo suporte de vocês",fraude
+"Perceberam uma tentativa de acesso suspeita na minha conta",fraude
+"Meu e-mail cadastrado foi trocado sem meu consentimento",fraude
+"Fui vítima de um golpe usando o nome da empresa",fraude
+"Notei um produto sendo enviado para um endereço que não é meu",fraude
+"Alguém está usando meus dados para abrir uma conta nova",fraude
+"Recebi cobrança de assinatura que nunca contratei",fraude
+"Minha conta bancária foi vinculada à plataforma sem minha autorização",fraude
+"Suspeito que meus dados vazaram depois de comprar aqui",fraude
+"Vocês têm previsão de lançar versão em outros idiomas?",outros
+"Só queria elogiar o atendimento, foi rápido e educado",outros
+"Vocês têm programa de indicação para novos clientes?",outros
+"Gostaria de saber se existe versão do aplicativo para tablet",outros
+"Como faço para deixar uma avaliação sobre o produto?",outros
+"Vocês oferecem algum tipo de parceria com pequenas empresas?",outros
+"Queria sugerir uma nova funcionalidade para o aplicativo",outros
+"Vocês têm horário de atendimento nos finais de semana?",outros
+"Gostaria de saber mais sobre a política de privacidade da empresa",outros
+"Só queria agradecer pela solução rápida do meu problema anterior",outros
+"Como faço para trabalhar na empresa de vocês?",outros
+"Vocês participam de algum evento presencial este ano?",outros
+"Gostaria de saber se o aplicativo funciona sem internet",outros
+"Existe algum canal para sugestões de melhoria?",outros
+"Queria saber se vocês têm loja física na minha cidade",outros
+"Vocês têm algum programa de fidelidade para clientes antigos?",outros
+"Gostaria de saber como funciona o suporte via WhatsApp",outros
+"Só queria confirmar se vocês ainda existem, faz tempo que não uso",outros
+"Vocês têm um blog ou canal com dicas de uso do produto?",outros
+"Gostaria de saber se dá pra usar a mesma conta em dois países diferentes",outros
